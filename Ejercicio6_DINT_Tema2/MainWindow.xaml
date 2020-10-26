@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Ejercicio6_DINT_Tema2"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Ejercicio6_DINT_Tema2" Height="450" Width="800">
     <Grid>
         <Image x:Name="foto1" HorizontalAlignment="Left" VerticalAlignment="Top" Opacity="0.5" MouseEnter="Image_MouseEnter" MouseLeave="Image_MouseLeave" Source="DINT_1.jpg" Height="327" Margin="30,53,0,0" Width="191" />
         <Image x:Name="foto2" HorizontalAlignment="Left" VerticalAlignment="Top" Opacity="0.5" MouseEnter="Image_MouseEnter" MouseLeave="Image_MouseLeave" Source="DINT_2.jpg" Height="327" Margin="276,53,0,0" Width="246" />
